@@ -42,7 +42,7 @@ How to Run:
 git clone https://github.com/Rajesh-M01/Sentiment-Analysis-WAP.git
 cd Sentiment-Analysis-WAP
 
-Run the Jupyter Notebook (Sentiment-Analysis-WAP.ipynb) in Kaggle through the link -> https://www.kaggle.com/code/rajeshm0/sentiment-analysis1
+Run the Jupyter Notebook (Sentiment-Analysis-WAP.ipynb) in Kaggle through the link -> https://www.kaggle.com/code/rajeshm0/sentiment-analysis-wap
 
 Libraries Used :
 Tensorflow/Keras
