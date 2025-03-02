@@ -29,6 +29,10 @@ NAIVE BAYES ->
 Naive Bayes Accuracy:  75.29137529137529%
 ![image](https://github.com/user-attachments/assets/f5b0097b-5f7b-4339-8624-b967036903bb)
 
+Confusion Matrix ->
+![image](https://github.com/user-attachments/assets/bad75888-3203-4322-aadb-a7bb4141d098)
+
+
 SAMPLE INPUT AND OUTPUT->
 1. Predicted Sentiment for I love this product! It's amazing.  ->  Positive 
 2. Predicted Sentiment for Disgusting Product ! Would never recommend it.  ->  Negative 
