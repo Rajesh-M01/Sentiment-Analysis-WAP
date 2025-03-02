@@ -23,13 +23,18 @@ Training:
 Results:
 BERT ->
 Final BERT Test Accuracy: 89.69%
+
 ![image](https://github.com/user-attachments/assets/1d912f3e-3eb6-4f1c-afa6-59648d547e7a)
 
 NAIVE BAYES ->
 Naive Bayes Accuracy:  75.29137529137529%
+
+
 ![image](https://github.com/user-attachments/assets/f5b0097b-5f7b-4339-8624-b967036903bb)
 
 Confusion Matrix ->
+
+
 ![image](https://github.com/user-attachments/assets/bad75888-3203-4322-aadb-a7bb4141d098)
 
 
